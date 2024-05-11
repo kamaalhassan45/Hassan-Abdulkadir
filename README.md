@@ -13,14 +13,10 @@ I am a dedicated learner passionate about cybersecurity and eager to contribute 
 - **Penetration Testing**: Conducted penetration tests to identify weaknesses in systems and applications and recommend remediation measures.
 - **Security Tools Development**: Developed tools and scripts to automate security tasks and improve efficiency in threat detection and response.
 
-## How to Use
-1. Explore the different directories in this repository to view my projects categorized by topic.
-2. Click on each project folder to access detailed descriptions, documentation, and relevant files.
-3. Feel free to reach out to me if you have any questions, feedback, or collaboration opportunities.
 
 ## Contact Information
-- **Email**: [your@email.com](mailto:Abdulkadirkamal96@email.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abdulkadir-kamal-880709264)
+- **Email**:(Abdulkadirkamal96@email.com)
+- **LinkedIn**:(https://www.linkedin.com/in/abdulkadir-kamal-880709264)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
